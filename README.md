@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **PACS**
 
-- 💬 Ask me about **react, spring**
+- 💬 Ask me about **reactjs, javascript, typescript**
 
-- 📫 How to reach me **glunkad26@gmail.com**
+- 📫 How to reach me **hello@glunkad.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
